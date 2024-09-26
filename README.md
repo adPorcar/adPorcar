@@ -5,6 +5,7 @@ Soy  **adPorcar**
 <!-- Íconos sociales -->
 
 🚀 Sobre mí
+
 🧠 Soy ingeniero de software, aunque entre mis gustos también entran el hacer deporte y viajar. 
 
 🎓 Cuento con certificación de nivel C1 en inglés por Cambridge.
