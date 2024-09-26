@@ -32,7 +32,7 @@ Soy  **adPorcar**
 
 * **Power shop:**
   E-commerce enfocado en venta de productos deportivos.
-  Desarrollado con Django y Boostrap.
+  Desarrollado con Django, Boostrap y SQLite.
 
 🎯 ¿Qué me motiva?
 Me motiva aprender continuamente y aportar el máximo al proyecto en que trabaje.
