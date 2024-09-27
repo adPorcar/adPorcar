@@ -14,7 +14,7 @@ Soy  **adPorcar**
 
 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías. Actualmente, estoy profundizando en integración de IA sobre sistemas para automatización de pruebas.
 
-🛠️ Tecnologías y herramientas
+
 💻 Cuento con experiencia en:
 * **Lenguajes de programación:** Java, Python, JavaScript.
 * **Diseño web:** Html, css, Tailwind css.
